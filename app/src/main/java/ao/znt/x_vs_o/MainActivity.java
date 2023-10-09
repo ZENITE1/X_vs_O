@@ -38,6 +38,8 @@ public class MainActivity extends AppCompatActivity {
     private char vez = 'x';
     public TextView txtTempoX, txtTempoO;
 
+//
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
